@@ -66,3 +66,17 @@ Sou um entusiasta da tecnologia e desenvolvedor em constante evolução. Meu foc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
 <br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dellarosa11&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
+  />
+
+</p>
