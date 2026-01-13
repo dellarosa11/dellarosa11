@@ -1,11 +1,12 @@
-# Matheus Della Rosa
-**Desenvolvedor Mobile**
+# 👩🏻‍💻 Matheus Della Rosa
 
-me chamo Matheus Della Rosa, tenho 21 anos e sou natural de São Paulo.
-Atualmente, estou cursando Engenharia da Computação na FHO
+**`Desenvolvedor Mobile`**
+
+Sou natural de São Paulo, tenho 21 anos e atualmente curso **Engenharia da Computação na FHO**. 
+Sou um entusiasta da tecnologia e desenvolvedor em constante evolução. Meu foco principal hoje é o **desenvolvimento mobile**, onde utilizo **Flutter e Dart** no ambiente Android Studio para criar aplicativos modernos e funcionais.
+
 
 ---
-<br/>
 ### Linguagens e Tecnologias
 
 <img 
@@ -62,8 +63,6 @@ Atualmente, estou cursando Engenharia da Computação na FHO
     title="flutter"
     width="30px" 
     style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
 <br/>
-<br/>
-
