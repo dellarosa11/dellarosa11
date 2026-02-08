@@ -51,20 +51,65 @@ Sou um entusiasta da tecnologia e desenvolvedor em constante evolução. Meu foc
 />
 <img 
     align="left" 
-    alt="dart" 
-    title="dart"
+    alt="Dart" 
+    title="Dart"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
 />
 <img 
     align="left" 
-    alt="flutter" 
-    title="flutter"
+    alt="Flutter" 
+    title="Flutter"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+ />
+
+ 
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+ />
+ <img 
+    align="left" 
+    alt="Windows" 
+    title="Windows"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+ />
+ <img 
+    align="left" 
+    alt="Android Studio" 
+    title="Android Studio"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+     />
+      <img 
+    align="left" 
+    alt="Visual Code" 
+    title="Visual Code"
+    width="30px" 
+    style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+     />
+
+    
+<br/>
 <br/>
 <br/>
 
