@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus Della Rosa
+# Matheus Della Rosa
 
 **`Desenvolvedor Mobile`**
 
@@ -113,7 +113,7 @@ Sou um entusiasta da tecnologia e desenvolvedor em constante evolução. Meu foc
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
