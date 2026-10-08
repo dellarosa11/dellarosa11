@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Mobile`**
 
-Sou natural de São Paulo, tenho 21 anos e atualmente curso **Engenharia da Computação na FHO**. 
+Sou natural de São Paulo, tenho 22 anos e atualmente curso **Engenharia da Computação na FHO**. 
 Sou um entusiasta da tecnologia e desenvolvedor em constante evolução. Meu foco principal hoje é o **desenvolvimento mobile**, onde utilizo **Flutter e Dart** no ambiente Android Studio para criar aplicativos modernos e funcionais.
 
 
@@ -113,15 +113,3 @@ Sou um entusiasta da tecnologia e desenvolvedor em constante evolução. Meu foc
 <br/>
 <br/>
 
-### Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dellarosa11&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
